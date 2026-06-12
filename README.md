@@ -55,6 +55,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [Grammarly](https://www.grammarly.com/) - AI-powered writing assistant.
 - [SurferSEO](https://surferseo.com/) - SEO content strategy and optimization platform.
 - [BuzzSumo](https://buzzsumo.com/) - Discover top-performing content and trending influencers.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Analytics and Reporting Tools
 - [Google Analytics](https://analytics.google.com/) - Industry-standard web analytics platform.
