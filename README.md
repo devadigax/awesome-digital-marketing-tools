@@ -66,6 +66,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [Google Ads](https://ads.google.com/) - Advertise across Google Search, Display, and YouTube.
 - [Facebook Ads Manager](https://www.facebook.com/business/tools/ads-manager) - Create, manage, and optimize ads on Facebook and Instagram.
 - [AdEspresso](https://adespresso.com/) - Facebook, Instagram, and Google Ads management and optimization.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Landing Page Builders
 - [Unbounce](https://unbounce.com/) - Build high-converting landing pages without coding.
