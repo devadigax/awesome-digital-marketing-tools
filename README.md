@@ -47,6 +47,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 
 ## SEO Tools
 - [Ahrefs](https://ahrefs.com/) - All-in-one SEO toolset for backlink analysis, keyword research, and site audits.
+- [AnswerLens](https://app.sfdj.net/) - Public evidence audit and source-backed fix plan for B2B SaaS websites.
 - [SEMrush](https://www.semrush.com/) - Comprehensive digital marketing suite for SEO, PPC, and content marketing.
 - [Moz](https://moz.com/) - SEO software with link building, keyword research, and rank tracking.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - SEO and keyword research tool for content marketers.
