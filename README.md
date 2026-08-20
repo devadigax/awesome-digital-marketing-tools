@@ -66,6 +66,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [Google Ads](https://ads.google.com/) - Advertise across Google Search, Display, and YouTube.
 - [Facebook Ads Manager](https://www.facebook.com/business/tools/ads-manager) - Create, manage, and optimize ads on Facebook and Instagram.
 - [AdEspresso](https://adespresso.com/) - Facebook, Instagram, and Google Ads management and optimization.
+- [AdMapix](https://www.admapix.com/) - AI ad creative intelligence for competitor research and market signal analysis across mobile games, apps, and ecommerce.
 
 ## Landing Page Builders
 - [Unbounce](https://unbounce.com/) - Build high-converting landing pages without coding.
