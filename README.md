@@ -41,6 +41,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 
 ## Social Media Tools
 - [Buffer](https://buffer.com/) - Social media scheduling, analytics, and engagement platform.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content through BulkPublish.
 - [Hootsuite](https://hootsuite.com/) - Manage all social media in one dashboard.
 - [Later](https://later.com/) - Visual marketing platform for Instagram, Facebook, Pinterest, and TikTok.
 - [Canva](https://www.canva.com/) - Easy-to-use design tool for social media graphics and ads.
