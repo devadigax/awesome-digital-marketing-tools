@@ -44,6 +44,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [Hootsuite](https://hootsuite.com/) - Manage all social media in one dashboard.
 - [Later](https://later.com/) - Visual marketing platform for Instagram, Facebook, Pinterest, and TikTok.
 - [Canva](https://www.canva.com/) - Easy-to-use design tool for social media graphics and ads.
+- [FollowerKaufen.at Growth Calculator (German)](https://followerkaufen.at/tools/follower-growth) - Free, no-login calculator for the daily and weekly net follower gains needed to reach a target; a mathematical plan, not a platform growth forecast.
 
 ## SEO Tools
 - [Ahrefs](https://ahrefs.com/) - All-in-one SEO toolset for backlink analysis, keyword research, and site audits.
