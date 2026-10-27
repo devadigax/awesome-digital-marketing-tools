@@ -83,6 +83,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [HubSpot Academy](https://academy.hubspot.com/) - Free digital marketing, sales, and service courses.
 - [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) - Free online marketing and career courses.
 - [Coursera: Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing) - University-level training for digital marketing fundamentals.
+- [YouTube Starter Guide](https://creator.taoliapp.com/) - Free Chinese-language YouTube starter knowledge base for creators (account setup, policy, monetization; official sources preferred).
 
 ---
 
