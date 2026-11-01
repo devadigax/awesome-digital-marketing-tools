@@ -43,6 +43,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [Buffer](https://buffer.com/) - Social media scheduling, analytics, and engagement platform.
 - [Hootsuite](https://hootsuite.com/) - Manage all social media in one dashboard.
 - [Later](https://later.com/) - Visual marketing platform for Instagram, Facebook, Pinterest, and TikTok.
+- [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies that combines account and proxy operations, relevant-conversation discovery, and campaign workflows.
 - [Canva](https://www.canva.com/) - Easy-to-use design tool for social media graphics and ads.
 
 ## SEO Tools
