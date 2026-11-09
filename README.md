@@ -61,6 +61,7 @@ A curated list of awesome Digital Marketing tools, platforms, and resources to g
 - [Hotjar](https://www.hotjar.com/) - Heatmaps, session recordings, and user feedback.
 - [Mixpanel](https://mixpanel.com/) - Product and user analytics for growth teams.
 - [Supermetrics](https://supermetrics.com/) - Automate marketing reporting across multiple platforms.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker for monthly visits, trends and visitor sources on any domain.
 
 ## Advertising Tools
 - [Google Ads](https://ads.google.com/) - Advertise across Google Search, Display, and YouTube.
